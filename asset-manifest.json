@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sticky-notes/static/css/main.92e6a888.chunk.css",
+    "main.js": "/sticky-notes/static/js/main.5d67e6a7.chunk.js",
+    "main.js.map": "/sticky-notes/static/js/main.5d67e6a7.chunk.js.map",
+    "runtime-main.js": "/sticky-notes/static/js/runtime-main.19f2b230.js",
+    "runtime-main.js.map": "/sticky-notes/static/js/runtime-main.19f2b230.js.map",
+    "static/js/2.6313b332.chunk.js": "/sticky-notes/static/js/2.6313b332.chunk.js",
+    "static/js/2.6313b332.chunk.js.map": "/sticky-notes/static/js/2.6313b332.chunk.js.map",
+    "static/js/3.a0ab65e6.chunk.js": "/sticky-notes/static/js/3.a0ab65e6.chunk.js",
+    "static/js/3.a0ab65e6.chunk.js.map": "/sticky-notes/static/js/3.a0ab65e6.chunk.js.map",
+    "index.html": "/sticky-notes/index.html",
+    "static/css/main.92e6a888.chunk.css.map": "/sticky-notes/static/css/main.92e6a888.chunk.css.map",
+    "static/js/2.6313b332.chunk.js.LICENSE.txt": "/sticky-notes/static/js/2.6313b332.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sticky-notes/static/media/dan-cristian-padure-izq7BRX6xfw-unsplash.de443ec9.jpg",
+    "static/media/pin.4f9d9700.png": "/sticky-notes/static/media/pin.4f9d9700.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19f2b230.js",
+    "static/js/2.6313b332.chunk.js",
+    "static/css/main.92e6a888.chunk.css",
+    "static/js/main.5d67e6a7.chunk.js"
+  ]
+}
